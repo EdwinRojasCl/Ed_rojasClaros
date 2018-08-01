@@ -14,5 +14,5 @@ se ajusto el tamaño de fuente
 se realizo un pull del develop a lde velop
 
 se realiza la primera entrega.
-
+despues de la primera entrega se borra la rma release.
 
