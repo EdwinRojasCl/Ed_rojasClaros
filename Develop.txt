@@ -1,0 +1,14 @@
+comandos para crear la rama develop
+EDWIN@DESKTOP-0G6G7B5 MINGW64 /f/Repositorios/Ed_rojasClaros (master)
+$ git checkout -b develop
+Switched to a new branch 'develop'
+
+se creara la rama feature, a peticion del usuario se cambia los colores
+EDWIN@DESKTOP-0G6G7B5 MINGW64 /f/Repositorios/Ed_rojasClaros (develop)
+$ git checkout -b feature
+Switched to a new branch 'feature'
+
+se realizaon las tareas para hacer el cambio de colores
+
+se realizo un pull del develop a lde velop
+
