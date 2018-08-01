@@ -7,3 +7,6 @@ se creara la rama feature
 EDWIN@DESKTOP-0G6G7B5 MINGW64 /f/Repositorios/Ed_rojasClaros (develop)
 $ git checkout -b feature
 Switched to a new branch 'feature'
+
+
+se realizo un pull del develop a lde velop
