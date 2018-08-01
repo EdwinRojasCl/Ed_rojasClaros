@@ -7,26 +7,18 @@ se creara la rama feature, a peticion del usuario se cambia los colores
 EDWIN@DESKTOP-0G6G7B5 MINGW64 /f/Repositorios/Ed_rojasClaros (develop)
 $ git checkout -b feature
 Switched to a new branch 'feature'
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> hot_fix
+ hot_fix
 se realizaon las tareas para hacer el cambio de colores
-se ajusto el tamaÒo de fuente
+se ajusto el tama√±o de fuente
 
 se realizo un pull del develop a lde velop
 
-<<<<<<< HEAD
+
 se realiza la primera entrega.
 despues de la primera entrega se borra la rma release.
 
-=======
-<<<<<<< HEAD
-=======
 se realizaon las tareas para hacer el cambio de colores
-se ajusto el tamaÒo de fuente
->>>>>>> feature
+se ajusto el tama√±o de fuente
 
 se realizo un pull del develop a lde velop
 
