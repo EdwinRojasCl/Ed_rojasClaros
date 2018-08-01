@@ -8,6 +8,22 @@ EDWIN@DESKTOP-0G6G7B5 MINGW64 /f/Repositorios/Ed_rojasClaros (develop)
 $ git checkout -b feature
 Switched to a new branch 'feature'
 
+<<<<<<< HEAD
+se realizaon las tareas para hacer el cambio de colores
+se ajusto el tamaño de fuente
 
 se realizo un pull del develop a lde velop
 
+se realiza la primera entrega.
+despues de la primera entrega se borra la rma release.
+
+=======
+<<<<<<< HEAD
+=======
+se realizaon las tareas para hacer el cambio de colores
+se ajusto el tamaño de fuente
+>>>>>>> feature
+
+se realizo un pull del develop a lde velop
+
+>>>>>>> develop
