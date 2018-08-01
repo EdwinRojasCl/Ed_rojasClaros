@@ -9,6 +9,7 @@ $ git checkout -b feature
 Switched to a new branch 'feature'
 
 se realizaon las tareas para hacer el cambio de colores
+se ajusto el tamaño de fuente
 
 se realizo un pull del develop a lde velop
 
